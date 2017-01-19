@@ -2,6 +2,6 @@
 #define _header_h
 
 extern int add(int x, int y);
-extern double janArray[3][31];
+extern double cumArray[5][12];
 
 #endif
